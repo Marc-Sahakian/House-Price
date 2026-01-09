@@ -67,12 +67,7 @@ The **Gradient Boosting Regressor** was selected as the final model because:
 - It effectively captures non-linear relationships
 - It provides a good bias–variance trade-off compared to other models
 
----
 
-## 📌 Results
-- Best R² score: **XX.XX**
-- Lowest MSE: **XX.XX**
-- The model demonstrates strong generalization on unseen data
 
 ---
 
